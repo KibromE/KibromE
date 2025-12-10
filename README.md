@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KibromE
 - 👀 I’m interested in C/C++, Nodejs, Embedded Systems and IoT
-- 🌱 I’m currently learning esp-IDF, RTOS ...
+- 🌱 I’m currently learning esp-IDF, RTOS and edgeAI...
 
 <!---
 KibromE/KibromE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
